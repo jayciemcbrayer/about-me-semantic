@@ -1,0 +1,39 @@
+h1 {
+    color: #A64AC9;
+}
+#container {
+    /* comment */
+    background-color: white;
+    color: black;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+img {
+    float: right;
+}
+body {
+    background-color: black;
+    font-family: 'Asap', sans-serif;
+}
+
+.purpleText {
+    color: #A64AC9;
+}
+#mainButton {
+    color: #A64AC9;
+    text-decoration: none;
+    border: 4px solid #A64AC9;
+    padding: 17px;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: large;
+}
+
+.jmphoto {
+    width: 300px;
+}
+.clearFix {
+    clear: both;
+}

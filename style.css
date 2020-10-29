@@ -1,7 +1,7 @@
 h1 {
     color: #A64AC9;
 }
-section {
+#container {
     /* comment */
     background-color: white;
     color: black;
@@ -9,7 +9,9 @@ section {
     margin: auto;
     margin-top: 20px;
     padding: 20px;
-
+}
+img {
+    float: right;
 }
 body {
     background-color: black;
@@ -31,5 +33,8 @@ body {
 
 .jmphoto {
     width: 300px;
-
+    float: right;
+}
+.clearFix {
+    clear: both;
 }
